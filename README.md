@@ -2,7 +2,7 @@
 
 Suivi de développement d'un jeu en HTML 5 et Javascript
 
-## A propos
+## Le blog
 [Game in Progress](https://maximechagnolleau.wordpress.com/)
 
 
