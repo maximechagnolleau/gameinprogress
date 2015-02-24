@@ -22,3 +22,6 @@ Suivi de développement d'un jeu en HTML 5 et Javascript
 * [Tuto 1 : dessine-moi un menu](https://github.com/maximechagnolleau/GIP-EaselJS-Tuto1)
 * [Tuto 2 : Sprite(no bull)sheets](https://github.com/maximechagnolleau/GIP-EaselJS-Tuto2)
 
+### Box2d Web & EaselJS
+
+* [Tuto 1 : bouncing pigs](https://github.com/maximechagnolleau/GIP-Box2dWeb-EaselJS-Tuto1)
