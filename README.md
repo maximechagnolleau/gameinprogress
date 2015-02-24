@@ -11,5 +11,4 @@ Suivi de développement d'un jeu en HTML 5 et Javascript
 
 * [Tuto 1 : un gros cube, un p'tit cube, ...](https://github.com/maximechagnolleau/GIP-Box2dWeb-Tuto1)
 * [Tuto 2 : move your body !](https://github.com/maximechagnolleau/GIP-Box2dWeb-Tuto2)
-
-
+* [Tuto 3 : jump !](https://github.com/maximechagnolleau/GIP-Box2dWeb-Tuto3)
