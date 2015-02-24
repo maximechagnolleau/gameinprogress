@@ -16,3 +16,7 @@ Suivi de développement d'un jeu en HTML 5 et Javascript
 * Tuto 5 : 
   * [1 : liaisons dangereuses – Part 1] (https://github.com/maximechagnolleau/GIP-Box2dWeb-Tuto5-1)
   * [2 : liaisons dangereuses – Part 2] (https://github.com/maximechagnolleau/GIP-Box2dWeb-Tuto5-2)
+  
+### EaselJS
+
+* [Tuto 1 : dessine-moi un menu](https://github.com/maximechagnolleau/GIP-EaselJS-Tuto1)
